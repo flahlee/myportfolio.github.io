@@ -943,6 +943,8 @@ body.resume-section {
 @media only screen and (max-width: 768px) {
     .section2 h2 { font-size: 2em; margin: 0;}
     .bottom h1, .skills-background h1, .contact-page-bottom h1 { font-size: 7em; }
+    .about-content { display: block; padding-top: 50%; }
+    .skills-content { display: block; padding-top: 40%; }
     .about-content h2 { font-size: 1.3em; line-height: 1.2em; }
     .about-content p, .skills-content p { font-size: 0.75em; line-height: 1.5em; }
     .bottom, .skills-background { display: none;}
